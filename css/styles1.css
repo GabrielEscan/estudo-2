@@ -1,0 +1,42 @@
+/*4-exrernal*/
+body{
+    padding-bottom: 500px;
+}
+
+h3{
+  color :green; 
+}
+/* algum coimentario */
+/* mais um comentario */
+/* para addd um comentario em css control : */
+/* classes */
+.paragraph{
+  background: black;
+  color: aqua;
+  padding: 5px;
+}
+.batata{
+  border-bottom: 4px solid red;
+ 
+}
+/* ids */
+#exclusive-tittle{
+  background-color: purple;
+  color: yellow;
+  padding: 10px;
+}
+/* oredem das regras  */
+
+
+/* Nome de cores */
+.color-name{
+ color:olive; 
+}
+/* hex */
+.hex{
+  color: #55a398;
+  
+}
+p {
+  border-bottom: 4px solid green ;
+}
